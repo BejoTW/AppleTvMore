@@ -1,0 +1,22 @@
+Discovery;http://live.91kds.net/d/fy.php?380789_1361121904560;discovery_ch.png
+Discovery S;http://live.91kds.net/d/fy.php?380789_1361121926822;discoveryS_ch.png
+NGC Wild;http://live.91kds.net/d/fy.php?380789_1361124906157;ngcW_ch.png
+NGC(英);http://live.91kds.net/d/fy.php?380789_1361121889455;ngc_ch.png
+HBO HD;http://live.91kds.net/d/fy.php?17803_1351140653989;hbo_ch.png
+國興衛視;http://live.91kds.net/d/fy.php?380789_1361122058503;kuosh_ch.png
+緯來日本;http://live.91kds.net/d/fy.php?380789_1361121971979;welaiJP_ch.png
+三立台灣台;http://live.91kds.net/d/fy.php?380789_1361121983261;shanliTW_ch.png
+三立都會台;http://live.91kds.net/d/fy.php?17803_1369141818545;none
+八大綜合台;http://live.91kds.net/d/fy.php?380789_1361121804978;none
+緯來體育;http://live.91kds.net/d/fy.php?380789_1361122244575;welaiSport_ch.png
+衛視體育台灣;http://live.91kds.net/d/fy.php?380789_1361122259237;starSport_ch.png
+公視;http://220.128.100.58:80/live/1006.m3u8;none
+壹電視新聞;http://newshls-i.akamaihd.net/hls/live/202100/newshls/wifistream.m3u8;oneNews_ch.png
+三立新聞;http://usher.justin.tv/stream/multi_playlist/mirror582.m3u8?token=e7167fa191809cb614fe2d0483004e83fdb8ae30:4031b4ab2b75e6667c3a4917704c2c16a67dabcc:%7B&quotexpiration&quot:%201373334098.368459;none
+三立都會;http://usher.justin.tv/stream/multi_playlist/amberann.m3u8?token=47993d61da4ec8492ea9da1399e0f59943ffa2f1:6ad4125593c7f64e121c2f495995c1b9c190142a:%7B&quotexpiration&quot:%201373437606.1855221;none
+非凡新聞;http://usher.justin.tv/stream/multi_playlist/ubn_58.m3u8?token=5c6edce6635610ef41a257b52d6f49ca58a1ea3a:dbfc00e1d7175e17b704f463e71cc5f62efac195:%7B&quotexpiration&quot:%201373436624.0626559;none
+年代新聞;http://usher.justin.tv/stream/multi_playlist/megryn.m3u8?token=ce22cf5dbb73ffe3b562204b4e31bf55518578db:deb8e752a1bf3c50b449d4b060ee896c0c679b1d:%7B&quotexpiration&quot:%201374574544.221092;none
+秘密測試台;http://10.5.160.51/yii/cms/release/video/101000013_Beethoven_symhpony_No7_V/101000013_Beethoven_symhpony_No7_V.m3u8;none
+CCAV大連18X;http://94.242.221.141/hls/a-lo/stream185.m3u8;18x_ch.png
+Thrill電影;http://fw01.livem3u8.me.totiptv.com/live/c316ed9333e54442b25077f0bb3cc269.m3u8?bitrate=800;none
+TEST_TED;http://download.ted.com/talks/HollyMorris_2013G-480p.mp4?service=html5&apikey=talk_page;none

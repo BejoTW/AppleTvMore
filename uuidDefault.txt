@@ -1,0 +1,19 @@
+var profile = {
+    "result" : "ok",
+    "uuid" : "default",
+    "psnURL" : "http://securea.mlb.com/movie/",
+    "chlSrc" : "http://securea.mlb.com/chData.txt",
+    "jstvChl" : "http://securea.mlb.com/sampleJstvData.txt",
+    "deviceList" : [{
+            "uuid" : "YOURUUID",
+            "psnURL" : "http://securea.mlb.com/media/",
+            "chlSrc" : "http://securea.mlb.com/chData.txt",
+            "jstvChl" : "http://securea.mlb.com/sampleJstvData.txt"
+        },{
+            "uuid" : "local",
+            "psnURL" : "http://securea.mlb.com/pic/",
+            "chlSrc" : "http://securea.mlb.com/chData.txt",
+            "jstvChl" : "http://securea.mlb.com/sampleJstvData.txt"
+        }
+    ]
+};
