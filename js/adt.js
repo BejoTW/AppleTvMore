@@ -51,7 +51,7 @@ adtUtils = {
         });
     },
     getProgList: function (f) {
-        var url = 'http://hornydragon.blogspot.com/search/label/Adventure%20Time?max-results=200';
+        var url = 'http://hdx3.blogspot.com/search/label/Adventure%20Time';
         var info = [];
         TVUtils.makeRequest(url, "GET", adtUtils.getUA(), null, function(d) {
             var tmps = d.split("<div class='post-outer'>");
