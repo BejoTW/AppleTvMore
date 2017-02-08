@@ -1,6 +1,6 @@
 AppleTvMore
 ===========
-**WARNING **just do private using for fun, DO NOT for business**    
+**WARNING **just do private usage for fun, DO NOT for business**    
 - - -
 **Do more for your Apple TV to watch Video**  
 This is a project to make your Apple TV to play local server or other direct streaming. You can add/remove channel to your apple TV easily.
